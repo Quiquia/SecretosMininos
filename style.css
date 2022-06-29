@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", "Roboto", Arial, sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+#main {
+  margin: 4rem 3rem;
+  padding: 2.5rem;
+  background-color: #e5e0c4;
+  border-radius: 1rem;
+}
+
+#title {
+  font-size: 2.7rem;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+#img-div {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin: 0;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 1rem;
+}
+
+#img-caption {
+  margin: 0.5rem 0.5rem;
+  font-size: 1.2rem;
+}
+
+ol {
+  font-size: 1.5rem;
+  margin: 0 auto 1rem auto;
+  max-width: 900px;
+  text-align: left;
+}
+
+p {
+  font-size: 2rem;
+  font-style: italic;
+}
